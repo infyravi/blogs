@@ -3,10 +3,10 @@ layout: main
 ---
 <article class="article-page">
   <div class="page-content">
-    {% if page.img %}
+    {% if page.imgPost %}
     <div class="page-cover-image">
       <figure>
-        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.imgPost}} alt="{{page.title}}">
         {% if page.fig-caption %}
           <figcaption>{{page.fig-caption}}</figcaption>
         {% endif %}

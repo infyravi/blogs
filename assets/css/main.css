@@ -86,7 +86,7 @@ hr {
 pre {
   font-family: monospace, monospace;
   /* 1 */
-  font-size: 1em;
+  font-size: small;
   /* 2 */
 }
 
@@ -1245,7 +1245,7 @@ a.newer-posts:hover {
 
 .page-cover-image .page-image {
   width: 100%;
-  height: 100%;
+  height: 50%;
 }
 
 .page-footer {
@@ -1311,6 +1311,22 @@ a.newer-posts:hover {
   width: 100%;
   background-color: #ffffff;
   padding: 0 20px 20px;
+}
+
+.blog-div {
+    background-color: lightgrey;
+    width: 350px;
+    border: 2px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
+.output-div {
+    background-color: lightgrey;
+    width: 500px;
+    border: 2px solid green;
+    padding: 25px;
+    margin: 25px;
 }
 
 .blog-tags h1 {
