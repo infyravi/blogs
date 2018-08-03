@@ -2,7 +2,7 @@ title: Ravi Shankar's Blog Series
 name: My Experiments With Code
 description: In my blog i will be focussing on the generic problems which we face while doing development and at the same time try to cover the latest open source frameworks. I will also be talking about how to properly design and architect the software.
 permalink: '/:year/:month/:day/:title/'
-baseurl: "/codelab" # the subpath of your site, e.g. /blog
+baseurl: "/blogs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
