@@ -3,8 +3,8 @@ layout: post
 title: "How I explained Cloud Native to my daugther"
 date: 2018-10-28 11:32:20 +0300
 description: In this blog I have tried to explain cloud native in layman's terms with the help of a small parable. # Add post description (optional)
-img: cloudnative.png # Add image post (optional)
-imgPost: cloudnative.png #Add post header image (optional)
+img: cloudnative.PNG # Add image post (optional)
+imgPost: cloudnative.PNG #Add post header image (optional)
 tags: [cloud, cloud native,microservices,cloud enabled]
 ---
 Last weekend was quite hectic as we had the production release. Being the part of production war room I was working from home.
