@@ -22,6 +22,7 @@ html {
  */
 body {
   margin: 0;
+  text-align: justify;
 }
 
 /**
@@ -1494,4 +1495,19 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
+}
+
+.alert {
+    margin-bottom: 10px;
+    margin-top: 10px;
+	padding: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+
+.alert-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
 }
